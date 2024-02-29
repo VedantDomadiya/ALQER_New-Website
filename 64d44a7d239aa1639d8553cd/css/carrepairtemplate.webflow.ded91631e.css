@@ -6257,6 +6257,22 @@ figcaption {
   padding-top: 230px;
   padding-bottom: 350px;
 }
+.section.hero.fans {
+  background-image: url("https://assets-global.website-files.com/64d44a7d239aa1639d8553cd/64d66f59af125fb1323731c6_hero-shadow-home-v1-carrepair-x-webflow-template.svg"), linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, 0) 28%), linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("https://github.com/VedantDomadiya/ALQER-Resources/blob/main/Fans.jpg?raw=true");
+  background-position: 0%, 0 0, 0 0, 50% 100%;
+  background-repeat: no-repeat, repeat, repeat, no-repeat;
+  background-size: 1445px, auto, auto, cover;
+  padding-top: 230px;
+  padding-bottom: 350px;
+}
+.section.hero.irons {
+  background-image: url("https://assets-global.website-files.com/64d44a7d239aa1639d8553cd/64d66f59af125fb1323731c6_hero-shadow-home-v1-carrepair-x-webflow-template.svg"), linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, 0) 28%), linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("https://github.com/VedantDomadiya/ALQER-Resources/blob/main/iron.jpg?raw=true");
+  background-position: 0%, 0 0, 0 0, 50% 100%;
+  background-repeat: no-repeat, repeat, repeat, no-repeat;
+  background-size: 1445px, auto, auto, cover;
+  padding-top: 230px;
+  padding-bottom: 350px;
+}
 
 .section.hero.v4 {
   background-color: var(--neutral--800);
